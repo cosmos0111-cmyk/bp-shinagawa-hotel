@@ -1,50 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://shinagawa-hotel.pages.dev/</loc>
-    <lastmod>2026-05-29</lastmod>
+    <loc>https://cosmos0111-cmyk.github.io/bp-shinagawa-hotel/</loc>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://shinagawa-hotel.pages.dev/posts/compare-005.html</loc>
+    <loc>https://cosmos0111-cmyk.github.io/bp-shinagawa-hotel/posts/compare-005.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://shinagawa-hotel.pages.dev/posts/guide-003.html</loc>
+    <loc>https://cosmos0111-cmyk.github.io/bp-shinagawa-hotel/posts/field_note-001-1433kuy.html</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://cosmos0111-cmyk.github.io/bp-shinagawa-hotel/posts/guide-002-1433kuy.html</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://cosmos0111-cmyk.github.io/bp-shinagawa-hotel/posts/guide-003.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://shinagawa-hotel.pages.dev/posts/guide-004.html</loc>
+    <loc>https://cosmos0111-cmyk.github.io/bp-shinagawa-hotel/posts/guide-004.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://shinagawa-hotel.pages.dev/posts/review-001.html</loc>
+    <loc>https://cosmos0111-cmyk.github.io/bp-shinagawa-hotel/posts/review-001.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://cosmos0111-cmyk.github.io/bp-shinagawa-hotel/posts/review-002.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://shinagawa-hotel.pages.dev/posts/review-002.html</loc>
+    <loc>https://cosmos0111-cmyk.github.io/bp-shinagawa-hotel/posts/t3link-006.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://shinagawa-hotel.pages.dev/posts/t3link-006.html</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://shinagawa-hotel.pages.dev/feed.xml</loc>
-    <lastmod>2026-05-29</lastmod>
+    <loc>https://cosmos0111-cmyk.github.io/bp-shinagawa-hotel/feed.xml</loc>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
